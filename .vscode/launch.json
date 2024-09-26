@@ -11,20 +11,6 @@
           "SERVER_PORT": "8080",
           "SERVER_CONTEXT_PATH": "/work-order-pro-service"
         }
-      },
-      {
-        "type": "java",
-        "name": "work-order-pro-service",
-        "request": "launch",
-        "cwd": "${workspaceFolder}",
-        "console": "internalConsole",
-        "mainClass": "com.wsu.workorderproservice",
-        "projectName": "Work-Order-Pro-Service",
-        "args": "",
-        "env": {
-          "SERVER_PORT": "8080",
-          "SERVER_CONTEXT_PATH": "/work-order-pro-service"
-        }
       }
     ]
   }
